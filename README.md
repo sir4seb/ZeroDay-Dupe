@@ -42,7 +42,7 @@ cd ZeroDay-Dupe-main
 
 Install dependencies:
 
-python -m pip install requirements.txt
+python -m pip install -r requirements.txt
 
 Run the application:
 
