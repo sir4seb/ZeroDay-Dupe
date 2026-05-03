@@ -30,6 +30,8 @@ Compatibility with all chest types
 # 📥 Installation
 Install python for Windows
 
+Install Git for Windows
+
 Clone the repository:
 
 git clone https://github.com/ZeroDay-Dev/ZeroDay-Dupe.git
